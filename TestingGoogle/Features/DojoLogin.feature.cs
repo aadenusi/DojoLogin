@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace TestingGoogle.Features
+namespace TestingDojo.Features
 {
     using TechTalk.SpecFlow;
     using System;
@@ -66,7 +66,7 @@ namespace TestingGoogle.Features
             if (((testRunner.FeatureContext != null) 
                         && (testRunner.FeatureContext.FeatureInfo.Title != "Dojo Login")))
             {
-                global::TestingGoogle.Features.DojoLoginFeature.FeatureSetup(null);
+                global::TestingDojo.Features.DojoLoginFeature.FeatureSetup(null);
             }
         }
         
