@@ -1,0 +1,6 @@
+{
+  "TestSettings": {
+    "bbcBaseUrl": "http://bbc.co.uk/",
+    "DojoBaseUrl": "http://account.dojo.tech/"
+  }
+}
